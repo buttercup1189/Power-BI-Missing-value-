@@ -19,4 +19,11 @@ New Measure
  
  //Finding outliers : Interquartile Range (IQR)
  lower = 25 percentile - (1.5* IQR) 
- Upper =  75 percentile + (1.5* IQR)+
+ Upper =  75 percentile + (1.5* IQR)
+ 
+ // Addressing outliers
+ 1) Removing observation
+ 2) Imputation
+ >> Winsorzing 
+ ![image](https://user-images.githubusercontent.com/65704118/226718998-7bb5c842-1400-4e6c-aba0-49e54eb207ac.png)
+
