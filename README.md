@@ -9,3 +9,5 @@ New Measure
 = IF PRICE IS BLANK, ADD "110" AS AVERAGE VALUE 
 = IF(ISBLANK(airbnb[price]),110,airbnb[price])
 ![image](https://user-images.githubusercontent.com/65704118/226706581-1bc068d0-1d34-4a32-b310-5cdb9d058652.png)
+
+# Outliers
