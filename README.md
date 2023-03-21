@@ -16,3 +16,7 @@ New Measure
  upper = 3 * SD 
  outlier 
  Value <lower or upper> Value
+ 
+ //Finding outliers : Interquartile Range (IQR)
+ lower = 25 percentile - (1.5* IQR) 
+ Upper =  75 percentile + (1.5* IQR)+
