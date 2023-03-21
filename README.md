@@ -11,3 +11,8 @@ New Measure
 ![image](https://user-images.githubusercontent.com/65704118/226706581-1bc068d0-1d34-4a32-b310-5cdb9d058652.png)
 
 # Outliers
+//Finding outliers  using standard deviation
+ lower =-3 * SD
+ upper = 3 * SD 
+ outlier 
+ Value <lower or upper> Value
